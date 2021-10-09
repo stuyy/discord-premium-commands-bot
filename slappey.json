@@ -1,0 +1,7 @@
+{
+  "name": "premium-commands-bot",
+  "language": "typescript",
+  "manager": "yarn",
+  "token": "YOUR BOT TOKEN HERE",
+  "prefix": "!"
+}
